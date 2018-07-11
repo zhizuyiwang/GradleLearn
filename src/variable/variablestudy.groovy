@@ -14,7 +14,11 @@ println(name.class)
 
 def name1 = '啊\'\'single'
 println name1.class
-def name2 = ''' jj jjjjkk  '''
+def name2 = '''
+    锄禾日当午
+    汗滴禾下锄
+    谁知盘中餐
+    粒粒皆辛苦  '''
 println name2
 println name2.class
 
